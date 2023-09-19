@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name = "submit_button">Calculate</string>
+    <string name = "multiplication_select">*</string>
+    <string name = "addition_select">+</string>display_num
+    <string name = "division_select">/</string>
+    <string name = "subtraction_select">-</string>
+
 </resources>
